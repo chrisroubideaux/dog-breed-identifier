@@ -1,3 +1,2 @@
 # dog-breed-identifier.
-  imports: Numpy, Pandas, Matplotlib, colab, tensorflow
-  Machine learning model desinged to identify dog breeds using deep learning with tensorflow and colab.
+  Transfer learning model built with tensorflow colab and keras used to identify dog breeds
